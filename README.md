@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dechrist2021
-- 👀 I’m interested in Data science, machine learning, Deep learning and chaos
+- 👀 I’m interested in Data science, machine learning, Deep learning
 - 🌱 I’m currently PhD in ICT Convergence
 - 💞️ I’m looking to collaborate on my area of interest and other relevant fields
 - 📫 How to reach me ...
